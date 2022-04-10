@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-verse-ui/static/css/main.eb4c0d43.css",
+    "main.js": "/movies-verse-ui/static/js/main.8e3b522f.js",
+    "index.html": "/movies-verse-ui/index.html",
+    "main.eb4c0d43.css.map": "/movies-verse-ui/static/css/main.eb4c0d43.css.map",
+    "main.8e3b522f.js.map": "/movies-verse-ui/static/js/main.8e3b522f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4c0d43.css",
+    "static/js/main.8e3b522f.js"
+  ]
+}
